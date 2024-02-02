@@ -1,5 +1,6 @@
 # Youtube Text Analysis Case Study of BabyFace NPR Concert
 Text Analysis of Youtube Comments on BabyFace NPR performance
+https://github.com/PauloDaguvnor/Youtube-Text-Analysis---Case-Study-of-BabyFace-NPR-Concert/blob/main/babyface-tiny-desk.png
 
 BabyFace, Kenny Brian Edmonds, is a popular American singer, producer and songwriter.
 Recently, he performed at NPR’s Tiny Disk for the June Black History Month. Tiny Desk is a video series of live concerts where artists come to perform, giving fans the pleasure of experiencing their favourite artists live. Tiny Desk has hosted popular artists ranging from Burna Boy of Nigeria to Mariachi.
